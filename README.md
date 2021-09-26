@@ -6,7 +6,7 @@
 
 [
 
-![Demo](Schermata 2021-09-26 alle 14.17.26.png) ](https://youtu.be/jOIGVIbiFHw)
+[![Demo](Schermata 2021-09-26 alle 14.17.26.png)](https://youtu.be/jOIGVIbiFHw)
 
 
 [![Preview](preview.png)](https://www.youtube.com/watch?v=cRrocfKunXg)
