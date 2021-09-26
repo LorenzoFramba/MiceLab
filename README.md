@@ -1,31 +1,23 @@
-# Mani in pasta
+# MiceLabs
 
+## Team
 
 
 
 [![Demo](demo-preview.png)](https://www.youtube.com/watch?v=cRrocfKunXg)
 
-## L'idea
+## IDEA
 
-Ci siamo accorti che, durante la pandemia, le scuole e le università hanno dovuto interrompere molte attività di laboratorio.
-Infatti, anche se esistono simulatori online per esperimenti di fisica, chimica e molto altro, quasi tutti sono pensati
-per essere utilizzati da soli.
+an online collaboration platform that It allows teacher to organize active labs for all STEM class. The teacher can choose an online laboratory (simulator) among those suggested by our platform or any website .
+MiceLab, impacts the way students interact with teachers: students will ask more questions because they will have the possibility to apply what they learn and find gaps in their knowledge without expensive labs and in any conditions.
 
-La nostra idea aggiunge a questi siti web un sistema di collaborazione, affiancato da videochiamata. Questo permette
-a professori di fare lezioni teoriche introduttive, e successivamente di dividere gli studenti in gruppi che potranno
-lavorare in contemporanea, attraverso uno spazio di lavoro condiviso.
+### Budget
 
-### Espansione dell'idea
+The development of our platform will take 4 months, the total cost of the project will be approximately 10400 € for development and 4000 € divided into servers (only to synchronize customers) and tests.
+Another approach will be to develop the platform ourselves without any development cost and will be maintained 4000 € for testing and operating costs
 
-In futuro, sarà possibile riutilizzare la piattaforma per la formazione professionale di dipendenti o per permettere a software house
-di far provare i loro software a futuri clienti senza che essi debbano installare il programma finale sul loro computer.
+## Market
 
-## Prototipo
+Our main reference markets are teachers at high schools and universities of STEM subjects. The academic program is the same types of schools. This makes it easy for us to select ad-hoc laboratories and reuse them across schools of the same type.
 
-Il prototipo è stato realizzato utilizzando Electron, React e WebRTC.
-La demo permette di ad un professore di creare una sessione, visualizzare gli studenti che accedono e avviare la sessione, specificando l'url del simulatore da utilizzare.
-Gli studenti accedono ad una sessione ed entrano in una sala di attesa, fino a quando il professore non avvia la lezione.
-Una volta avviata la lezione, i pc dei ragazzi caricano una pagina web dedicata ad una videochiamata di gruppo, e un pc per gruppo (chiamato host) apre anche la pagina del simulatore.
-I rimanenti pc del gruppo iniziano una connessione WebRTC verso l'host per ricevere in streaming la condivisione dello schermo della finestra contenente il simulatore.
-Eventi del mouse e della tastiera vengono poi inoltrati al pc dell'host.
-
+Our platform is not only for schools. It can also be used by businesses to teach groups of employees how to use online software.
