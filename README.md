@@ -4,11 +4,7 @@
 ![Demo](logo_MiceLab.png) 
 ## Team
 
-
-[![Demo](prototype.png)](https://youtu.be/jOIGVIbiFHw)
-
 [![Preview](preview.png)](https://www.youtube.com/watch?v=cRrocfKunXg)
-
 ## IDEA
 
 an online collaboration platform that It allows teacher to organize active labs for all STEM class. The teacher can choose an online laboratory (simulator) among those suggested by our platform or any website .
@@ -24,3 +20,8 @@ Another approach will be to develop the platform ourselves without any developme
 Our main reference markets are teachers at high schools and universities of STEM subjects. The academic program is the same types of schools. This makes it easy for us to select ad-hoc laboratories and reuse them across schools of the same type.
 
 Our platform is not only for schools. It can also be used by businesses to teach groups of employees how to use online software.
+
+## Demo
+
+
+[![Demo](prototype.png)](https://youtu.be/jOIGVIbiFHw)
