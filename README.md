@@ -2,7 +2,7 @@
 
 
 ![Demo](logo_MiceLab.png) 
-## Team
+## General PITCH
 
 [![Preview](preview.png)](https://www.youtube.com/watch?v=cRrocfKunXg)
 ## IDEA
